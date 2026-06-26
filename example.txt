@@ -1,0 +1,2 @@
+hello , i am devops and aiops and ai infrastructure inthusiastes student who enjoy building  scalable , secure and high available architecture to streamline the deployment of the full stack application 
+that run on the top of this infrastructure seemlessl
